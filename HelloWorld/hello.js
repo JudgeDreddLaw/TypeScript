@@ -1,1 +1,1 @@
-alert("Hello, World!");
+alert("I am the Law");
